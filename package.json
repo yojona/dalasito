@@ -1,6 +1,7 @@
 {
   "dependencies": {},
   "scripts": {
+    "bootstrap": "yarn --cwd ./server install & yarn --cwd ./client install",
     "start": "yarn --cwd ./server start & yarn --cwd ./client start"
   }
 }
