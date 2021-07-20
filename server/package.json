@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-media-server": "^2.3.8"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
